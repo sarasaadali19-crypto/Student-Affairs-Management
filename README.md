@@ -36,3 +36,4 @@ C++
 6. Conclusion
 
 This project demonstrates the use of Object-Oriented Programming concepts in C++ through a simple Student Affairs Management System.
+Sara Saad Ali 
